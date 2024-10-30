@@ -1,0 +1,12 @@
+C:\ITM 320 - Systems Analysis\TeamProjCode\ITM320_JohannesDLL\ITM320_JohannesDLL\bin\Debug\ITM320_JohannesDLL.dll
+C:\ITM 320 - Systems Analysis\TeamProjCode\ITM320_JohannesDLL\ITM320_JohannesDLL\bin\Debug\ITM320_JohannesDLL.pdb
+C:\ITM 320 - Systems Analysis\TeamProjCode\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.csproj.AssemblyReference.cache
+C:\ITM 320 - Systems Analysis\TeamProjCode\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.csproj.CoreCompileInputs.cache
+C:\ITM 320 - Systems Analysis\TeamProjCode\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.dll
+C:\ITM 320 - Systems Analysis\TeamProjCode\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.pdb
+C:\ITM 320 - Systems Analysis\TeamProjCode\SimpleFit v3.0\ITM320_SimpleFit_Health_App-Final_Project\ITM320_JohannesDLL\ITM320_JohannesDLL\bin\Debug\ITM320_JohannesDLL.dll
+C:\ITM 320 - Systems Analysis\TeamProjCode\SimpleFit v3.0\ITM320_SimpleFit_Health_App-Final_Project\ITM320_JohannesDLL\ITM320_JohannesDLL\bin\Debug\ITM320_JohannesDLL.pdb
+C:\ITM 320 - Systems Analysis\TeamProjCode\SimpleFit v3.0\ITM320_SimpleFit_Health_App-Final_Project\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.csproj.AssemblyReference.cache
+C:\ITM 320 - Systems Analysis\TeamProjCode\SimpleFit v3.0\ITM320_SimpleFit_Health_App-Final_Project\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.csproj.CoreCompileInputs.cache
+C:\ITM 320 - Systems Analysis\TeamProjCode\SimpleFit v3.0\ITM320_SimpleFit_Health_App-Final_Project\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.dll
+C:\ITM 320 - Systems Analysis\TeamProjCode\SimpleFit v3.0\ITM320_SimpleFit_Health_App-Final_Project\ITM320_JohannesDLL\ITM320_JohannesDLL\obj\Debug\ITM320_JohannesDLL.pdb
